@@ -37,21 +37,24 @@ Skills
 
 PROJECTS
 ======
-*Development of cross-species single-cell RNA-seq cell type annotation tool(CellLingo)*
+**Development of cross-species single-cell RNA-seq cell type annotation tool(CellLingo)**
  * Project design;
  * Collected and analyzed single cell RNA-seq data of different species.
  * Developed and trained heterogeneous graph convolutional neural network.
-*Integrative Single-Cell RNA-Seq and ATAC-Seq Analysis of Porcine intestine during different developmental stages*
+   
+**Integrative Single-Cell RNA-Seq and ATAC-Seq Analysis of Porcine intestine during different developmental stages**
  * Quality controlled, Mapped and clustered cells.
  * Integrated and analyzed scRNA-seq data and scATAC-seq data.
  * Helped annotate cell types and analyzed cell interaction, RNA velocity.
  * Visualized parts of result.
-*SKMATLAS: An integrated functional genomics database for vertebrate skeletal muscle*
+   
+**SKMATLAS: An integrated functional genomics database for vertebrate skeletal muscle**
  * Collected, filtered and analyzed parts of data.
  * Designed website layout and functional tools on website.
  * Wrote usage document for the website.
  * The website can be explored by this URL: http://www.skmatlas.cn/
-*Prediction of potential animal reservoirs for the SARS-CoV-2 based on machine learning*
+   
+**Prediction of potential animal reservoirs for the SARS-CoV-2 based on machine learning**
  * Collected data including all coronavirus’ spike protein sequence and their reservoirs hosts.
  * Developed and trained a BPNN model.
  * The result was similar to other researches about finding SARS-CoV-2 origins.
