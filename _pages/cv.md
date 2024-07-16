@@ -39,13 +39,13 @@ PROJECTS
 ======
 **Development of cross-species single-cell RNA-seq cell type annotation tool(CellLingo)**
  * Project design;
- * Collected and analyzed single cell RNA-seq data of different species.
+ * Collected and analyzed single cell RNA-seq data from different species.
  * Developed and trained heterogeneous graph convolutional neural network.
    
 **Integrative Single-Cell RNA-Seq and ATAC-Seq Analysis of Porcine intestine during different developmental stages**
  * Quality controlled, Mapped and clustered cells.
  * Integrated and analyzed scRNA-seq data and scATAC-seq data.
- * Helped annotate cell types and analyzed cell interaction, RNA velocity.
+ * Helped annotate cell types and analyzed cell-cell communication and RNA velocity.
  * Visualized parts of result.
    
 **SKMATLAS: An integrated functional genomics database for vertebrate skeletal muscle**
