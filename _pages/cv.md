@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Graduate School of Chinese Academy of Agricultural Sciences, Agricultural Genomics Institution at Shen Zheng(2020-2023)
+  * Graduate student
+  * Major: Animal Husbandry
+* Xidian University(2016-2020)
+  * Undergraduate student
+  * Major: Biotechnology
 
-Work experience
+Current possition
 ======
 * Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Agricultural Genomics Institution at Shen Zheng, Graduate School of Chinese Academy of Agricultural Sciences.
+  * Duties includes: Research assistant(Bioinformatcis)
+  * Lab: Liu Yuwen lab
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Familiar with some machine learning models such as Transformer, ResNet, CNN, RNN and also classic cluster menthones like k-means, c-means.
+* Basic statistics knowledge such as hypothesis testing and parameter estimation.
+* Familiar with single cell RNA-seq and ATAC-seq data and also relevant software (cellranger and STARsolo), R (Seurat and ArchR) and python (Scanpy and Signac) packages.
+* Proficient in Python and R scripts and machine learning packages (Pytorch and skite-learn).
+* Familiar with linux system bash scripts.
+* Familiar with multi-omices data (RNA-seq, ATAC-seq, CHIP-seq, WGS and etc) and bioinformatics common used software (BLAST, Bowtie, seqkit, samtools, bedtools,MEME and etc)
+* IELTS Band Score: 6
 
-Publications
+Patent
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Xian hui, Chen Ruipu et al. Machine learning-based analysis of the strength of the effect ofpromoters upstream of genes on expression:CN111613270A[P].2020-09-01.
   
-Talks
+Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Gold Award in The 4th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition (school level).
+* The third place in The national finals of the 4th “i Creator” Science and Technology Innovation and Entrepreneurship Plan Competition.
