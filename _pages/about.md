@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Self introduction
+Introduction
 ==========
-I am a research assistant now, hanlding adquent skills revelant to bioinformatics. I was really interested in biology and computer science when i was a college student. So, i try to learn bioinformatics. Futuanatly, there were some high quality CS classes in my curriculum. Also, I learned Python and R scripts by myself. 
+I am a research assistant, handling adequate skills relevant to bioinformatics. 
+When I was a college student. I majored in Biotechnology and I was really interested in not only biology and computer science. So, I tried to learn bioinformatics. Fortunately, there were some high-quality CS classes in my curriculum. Also, I learned Python and R by myself. During that time, I was attracted by machine learning, then I learned the knowledge about it and tried some classic machine learn projects like hand-written digits recognition.
+
