@@ -33,7 +33,6 @@ Skills
 * Proficient in Python and R scripts and machine learning packages (Pytorch and skite-learn).
 * Familiar with linux system bash scripts.
 * Familiar with multi-omices data (RNA-seq, ATAC-seq, CHIP-seq, WGS and etc) and bioinformatics common used software (BLAST, Bowtie, seqkit, samtools, bedtools,MEME and etc)
-* IELTS Band Score: 6
 
 PROJECTS
 ======
